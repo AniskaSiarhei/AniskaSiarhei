@@ -60,7 +60,10 @@ Here are some ideas to get you started:
 
 
 
+## 🚀 My Open Source Projects:
 
+- 🧪 [CodeTest Framework](https://github.com/AniskaSiarhei/code-test-framework)  
+  Lightweight Java testing framework with Spring support, custom assertions, soft checks, and HTML/JSON reporting.
 
 
 
