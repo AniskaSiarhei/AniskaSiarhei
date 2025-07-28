@@ -62,7 +62,9 @@ Here are some ideas to get you started:
 
 ## 🚀 My Open Source Projects:
 
-- 🧪 [CodeTest Framework](https://github.com/AniskaSiarhei/code-test-framework)  
+- [Task Manager](https://github.com/AniskaSiarhei/task-manager)
+  A web-based task management application built with Spring Boot, Spring Security, Thymeleaf, and MySQL
+- [CodeTest Framework](https://github.com/AniskaSiarhei/code-test-framework)  
   Lightweight Java testing framework with Spring support, custom assertions, soft checks, and HTML/JSON reporting.
 
 
