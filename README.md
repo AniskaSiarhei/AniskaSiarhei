@@ -62,10 +62,14 @@ Here are some ideas to get you started:
 
 ## 🚀 My Open Source Projects:
 
-- [Task Manager](https://github.com/AniskaSiarhei/task-manager)
-  A web-based task management application built with Spring Boot, Spring Security, Thymeleaf, and MySQL
-- [CodeTest Framework](https://github.com/AniskaSiarhei/code-test-framework)  
-  Lightweight Java testing framework with Spring support, custom assertions, soft checks, and HTML/JSON reporting.
+### 🔹 [Task Manager](https://github.com/AniskaSiarhei/task-manager)
+Web-based task management system built with **Spring Boot**, **Spring Security**, **Thymeleaf**, and **MySQL**.  
+Supports user authentication, task CRUD operations, and responsive UI for efficient personal workflow management.
+
+### 🔹 [CodeTest Framework](https://github.com/AniskaSiarhei/code-test-framework)
+Lightweight Java testing framework with **Spring context support**, advanced **custom assertions**, **soft checks**, and **HTML/JSON report generation**.  
+Designed for flexibility, test automation, and clear diagnostics in real-world Java projects.
+
 
 
 
