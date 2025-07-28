@@ -66,9 +66,17 @@ Here are some ideas to get you started:
 Web-based task management system built with **Spring Boot**, **Spring Security**, **Thymeleaf**, and **MySQL**.  
 Supports user authentication, task CRUD operations, and responsive UI for efficient personal workflow management.
 
+### 🔹 [WeatherApp](https://github.com/AniskaSiarhei/Weather-App)
+A simple weather application built with **Spring Boot** that allows users to:  
+• Register and log in to their account  
+• Search for weather information by city  
+• Save favorite locations for quick access  
+• View current weather for saved locations
+
 ### 🔹 [CodeTest Framework](https://github.com/AniskaSiarhei/code-test-framework)
 Lightweight Java testing framework with **Spring context support**, advanced **custom assertions**, **soft checks**, and **HTML/JSON report generation**.  
 Designed for flexibility, test automation, and clear diagnostics in real-world Java projects.
+
 
 
 
