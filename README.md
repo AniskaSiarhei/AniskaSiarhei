@@ -74,8 +74,7 @@ A simple weather application built with **Spring Boot** that allows users to:
 • View current weather for saved locations
 
 ### 🔹 [CodeTest Framework](https://github.com/AniskaSiarhei/code-test-framework)
-Lightweight Java testing framework with **Spring context support**, advanced **custom assertions**, **soft checks**, and **HTML/JSON report generation**.  
-Designed for flexibility, test automation, and clear diagnostics in real-world Java projects.
+Lightweight Java testing framework with **Spring context support**, advanced **custom assertions**, **soft checks**, and **HTML/JSON report generation**. Designed for flexibility, test automation, and clear diagnostics in real-world Java projects.
 
 
 
